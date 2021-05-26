@@ -5,13 +5,13 @@
  <groupId>com.my</groupId>
   <artifactId>HelloWorldWarfile</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
 
   <name>HelloWorldWarfile Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
     <connection>scm:git:https://github.com/Swethadevops-git/HelloWorldWarfile.git</connection>
-    <developerconnection>https://github.com/Swethadevops-git/HelloWorldWarfile.git</developerconnection>
+    <developerConnection>scm:git:https://github.com/Swethadevops-git/HelloWorldWarfile.git</developerConnection>
   </scm>
  
 
