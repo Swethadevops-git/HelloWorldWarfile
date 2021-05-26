@@ -9,8 +9,13 @@
 
   <name>HelloWorldWarfile Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <scm>
+    <connection>scm:git:https://github.com/Swethadevops-git/HelloWorldWarfile.git</connection>
+    <developerconnection>https://github.com/Swethadevops-git/HelloWorldWarfile.git</developerconnection>
+  </scm>
+ 
 
-  <distributionManagement>
+ <distributionManagement>
   <repository>
   <id>release</id>
   <url>http://10.0.1.17:8081/nexus/content/repositories/releases/</url>
